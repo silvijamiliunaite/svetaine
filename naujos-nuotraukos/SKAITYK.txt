@@ -1,0 +1,5 @@
+Čia įkelk naujas nuotraukas (.jpg arba .png) – svetainė pati jas sumažins ir įdės į galeriją.
+Failo vardą pavadink taip:  Fotografo Vardas Pavardė - bet kas.jpg
+Dalis prieš " - " (tarpas, brūkšnelis, tarpas) taps nuotraukos autoriumi.
+Pvz.: Marija Kulikauskaitė - premjera.jpg
+Šio failo (SKAITYK.txt) netrink – jis laiko aplanką.

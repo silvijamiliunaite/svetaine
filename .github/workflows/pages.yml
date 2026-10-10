@@ -1,0 +1,22 @@
+name: Deploy site
+on:
+  push: {branches: [main]}
+  workflow_dispatch:
+  schedule:
+    - cron: "15 3 * * *"   # kasdien perstato svetainę, kad praėję renginiai patys pereitų į „Įvykę“
+permissions: {contents: read, pages: write, id-token: write}
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: {name: github-pages, url: "${{ steps.d.outputs.page_url }}"}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pillow
+      - run: python build.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: {path: dist}
+      - id: d
+        uses: actions/deploy-pages@v4

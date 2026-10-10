@@ -1,0 +1,642 @@
+{
+ "name": "Silvija Miliūnaitė",
+ "domain": "https://silvijamiliunaite.com",
+ "tagline": {
+  "lt": "Šiuolaikinės muzikos kompozitorė",
+  "en": "Contemporary music composer"
+ },
+ "description": {
+  "lt": "Silvija Miliūnaitė – lietuvių šiuolaikinės muzikos kompozitorė: koncertinė muzika, opera, baletas, dramos teatras ir tarpdisciplininiai projektai.",
+  "en": "Silvija Miliūnaitė – Lithuanian composer of contemporary music: concert works, opera, ballet, theatre and interdisciplinary projects."
+ },
+ "nav": [
+  {
+   "id": "home",
+   "title": {
+    "lt": "Pradžia",
+    "en": "Home"
+   },
+   "slug": {
+    "lt": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "news",
+   "title": {
+    "lt": "Naujienos",
+    "en": "News"
+   },
+   "slug": {
+    "lt": "naujienos",
+    "en": "news"
+   }
+  },
+  {
+   "id": "bio",
+   "title": {
+    "lt": "Biografija",
+    "en": "Biography"
+   },
+   "slug": {
+    "lt": "biografija",
+    "en": "biography"
+   }
+  },
+  {
+   "id": "music",
+   "title": {
+    "lt": "Muzika",
+    "en": "Music"
+   },
+   "slug": {
+    "lt": "muzika",
+    "en": "music"
+   }
+  },
+  {
+   "id": "watch",
+   "title": {
+    "lt": "Klausyti ir žiūrėti",
+    "en": "Listen & Watch"
+   },
+   "slug": {
+    "lt": "klausyti-ir-ziureti",
+    "en": "listen-and-watch"
+   }
+  },
+  {
+   "id": "gallery",
+   "title": {
+    "lt": "Galerija",
+    "en": "Gallery"
+   },
+   "slug": {
+    "lt": "galerija",
+    "en": "gallery"
+   }
+  },
+  {
+   "id": "press",
+   "title": {
+    "lt": "Spauda",
+    "en": "Press"
+   },
+   "slug": {
+    "lt": "spauda",
+    "en": "press"
+   }
+  },
+  {
+   "id": "calendar",
+   "title": {
+    "lt": "Kalendorius",
+    "en": "Calendar"
+   },
+   "slug": {
+    "lt": "kalendorius",
+    "en": "calendar"
+   }
+  },
+  {
+   "id": "contact",
+   "title": {
+    "lt": "Kontaktai",
+    "en": "Contact"
+   },
+   "slug": {
+    "lt": "kontaktai",
+    "en": "contact"
+   }
+  },
+  {
+   "id": "worklist",
+   "hidden": true,
+   "title": {
+    "lt": "Kūrinių sąrašas",
+    "en": "List of works"
+   },
+   "slug": {
+    "lt": "kuriniu-sarasas",
+    "en": "works"
+   }
+  },
+  {
+   "id": "presskit",
+   "hidden": true,
+   "title": {
+    "lt": "Press kit",
+    "en": "Press kit"
+   },
+   "slug": {
+    "lt": "press-kit",
+    "en": "press-kit"
+   }
+  }
+ ],
+ "home_intro": {
+  "lt": [
+   "Silvija Miliūnaitė – šiuolaikinės muzikos lietuvių kompozitorė, kurios kūryba apima koncertinę muziką, veikalus teatrui, šokiui bei tarpdisciplininius projektus. 2026 m. už spektaklį „Panama labai graži“ nominuota „Auksiniam scenos kryžiui“ Metų spektaklio vaikams ir jaunimui kategorijoje. Tarptautinėje spaudoje apibūdinama kaip „kylanti Lietuvos žvaigždė“ (erpmusic.com), kompozitorė savo muzikoje jungia subtilų mikromelodinį judėjimą, ryškų ritmą ir emocinį skaidrumą. Minimalistinė ir neoromantinė estetika Silvijos darbuose persipina su jos, kaip atlikėjos, patirtimi bei baroko ir klasikinės muzikos tradicija, o elektronika dažnai pasitelkiama kaip ekspresijos priemonė, papildanti akustinį skambesį.",
+   "Pastaruoju metu kompozitorė itin aktyviai pristato premjeras didžiosiose šalies ir užsienio scenose, bendradarbiaudama su pripažintais orkestrais bei solistais. Jos kūryba išsiskiria komunikatyvumu ir gebėjimu formuoti unikalų, gyvą bei dinamišką šiuolaikinės muzikos pasaulį."
+  ],
+  "en": [
+   "Silvija Miliūnaitė is a Lithuanian composer of contemporary music whose work spans concert music, works for theatre and dance, and interdisciplinary projects. In 2026 she was nominated for the Golden Stage Cross in the category of Children’s and Youth Performance of the Year for „Panama labai graži“ (Panama Is Very Beautiful). Described in the international press as a “rising Lithuanian star” (erpmusic.com), she combines subtle micro-melodic movement, vivid rhythm and emotional transparency. The minimalist and neo-romantic aesthetic of her music meets her experience as a performer and the traditions of Baroque and classical music, while electronics often serve as an expressive tool that extends the acoustic sound.",
+   "In recent years the composer has been premiering new works on major stages in Lithuania and abroad, collaborating with acclaimed orchestras and soloists. Her music stands out for its directness and its ability to shape a unique, vivid and dynamic world of contemporary music."
+  ]
+ },
+ "bio": {
+  "lt": [
+   "Silvija Miliūnaitė – šiuolaikinės muzikos lietuvių kompozitorė, kurios kūryba apima koncertinę muziką, veikalus teatrui, šokiui bei tarpdisciplininius projektus. 2026 m. už spektaklį „Panama labai graži“ nominuota „Auksiniam scenos kryžiui“ Metų spektaklio vaikams ir jaunimui kategorijoje. Tarptautinėje spaudoje apibūdinama kaip „kylanti Lietuvos žvaigždė“ (erpmusic.com), kompozitorė savo muzikoje jungia subtilų mikromelodinį judėjimą, ryškų ritmą ir emocinį skaidrumą. Minimalistinė ir neoromantinė estetika Silvijos darbuose persipina su jos, kaip atlikėjos, patirtimi bei baroko ir klasikinės muzikos tradicija, o elektronika dažnai pasitelkiama kaip ekspresijos priemonė, papildanti akustinį skambesį.",
+   "Pastaraisiais metais kompozitorė sukūrė eilę ryškių sceninių ir koncertinių darbų. 2025 m. Klaipėdos valstybinis muzikinis teatras pristatė šokio spektaklį vaikams „Panama labai graži“, o Lietuvos nacionalinio operos ir baleto teatro (LNOBT) scenoje įvyko Neli Beliakaitės Baltijos baleto akademijos pastatyto baleto „Saulės dukros“ premjera. Tais pačiais metais festivalyje „Gaida“ pristatytas pirmasis lietuviškas dvigubas koncertas perkusijai ir styginių orkestrui „Fire Games for Two“, taip pat publiką pasiekė spektakliai „Muzikos miestas“ bei „Žemaitė N. 18 (0)“. Kūrybinį kraitį pildo 2024 m. ansamblio „Lietuva“ pastatytas šokio spektaklis vaikams „Pelėda Drūlija“, 2023 m. Panevėžio J. Miltinio dramos teatre pristatytas spektaklis „Camino Real“ bei 2022 m. Visagine debiutavęs šokio spektaklis „Einu namo“.",
+   "Ankstesni ryškūs kūriniai apima šokio–judesio filmą „Anapus sienų“ (2021), baletą vaikams „Kai atbunda žaislai“ (2021), kūrinį sopranui ir styginių orkestrui „Iš tamsos į šviesą“ (2021) bei kompoziciją styginių orkestrui „Black Grass Town“ (2019), skirtą Černobylio avarijos 35osioms metinėms paminėti. Silvijos muziką atlieka pripažinti kolektyvai, tarp kurių – Lietuvos kamerinis orkestras, Lietuvos valstybinis simfoninis orkestras, Šv. Kristoforo kamerinis orkestras, Kauno simfoninis orkestras, „Kremerata Lituanica“, valstybinis ansamblis „Lietuva“ bei kiti. Jos kūrinius interpretuoja žymūs solistai Lietuvos bei užsienio scenose, taip aktyviai pildydami šiuolaikinės muzikos repertuarą.",
+   "S. Miliūnaitės kūryba plačiai pristatoma tarptautiniuose festivaliuose: „Gaida“, „Vilniaus festivalis“, „Pažaislio muzikos festivalis“, „Glasperlenspiel“ (Estija), „Sommets Musicaux de Gstaad“ (Šveicarija) ir kt. Tarpdisciplininių projektų lauke išsiskiria autorės inicijuota muzikinė fotografijų paroda „Kelias migloje“ (kartu su V. Usinavičiumi-Auguliu), kurioje elektroakustinė muzika ir analoginis fotomenas susilieja į vientisą pasakojimą. Tarptautinį pripažinimą žymi ir Japonijos bei Lietuvos draugystės šimtmečiui skirtas kūrinys dviem smuikams ir elektronikai „Green Journey“, kurio premjera įvyko Kanadzavoje (Japonija). Autorės kūryboje juntamas atvirumas ir populiariosios kultūros impulsams – tai liudija bendradarbiavimas su kultine roko grupe „Antis“, kurios albume „Baisiai džiugu“ pasirodė kompozitorės „Antisimfonija“. Kompozitorės kūriniai skamba ne tik Lietuvoje, bet ir Japonijoje, Vokietijoje, Austrijoje, Šveicarijoje, Prancūzijoje, Belgijoje, Vengrijoje, Ukrainoje, Azerbaidžane, Estijoje bei Latvijoje.",
+   "Silvija Miliūnaitė mokėsi smuiko ir kompozicijos specialybių Kauno Juozo Naujalio muzikos gimnazijoje (mokyt. Algirdo Briliaus klasė). 2019 m. ji įgijo kompozicijos bakalauro, o 2022 m. – magistro laipsnį Lietuvos muzikos ir teatro akademijoje, prof. Mindaugo Urbaičio klasėje."
+  ],
+  "en": [
+   "Silvija Miliūnaitė is a Lithuanian composer of contemporary music whose work spans concert music, works for theatre and dance, and interdisciplinary projects. In 2026 she was nominated for the Golden Stage Cross in the category of Children’s and Youth Performance of the Year for „Panama labai graži“ (Panama Is Very Beautiful). Described in the international press as a “rising Lithuanian star” (erpmusic.com), she combines subtle micro-melodic movement, vivid rhythm and emotional transparency. The minimalist and neo-romantic aesthetic of her music meets her experience as a performer and the traditions of Baroque and classical music, while electronics often serve as an expressive tool that extends the acoustic sound.",
+   "In recent years the composer has created a series of striking stage and concert works. In 2025 the Klaipėda State Music Theatre presented her dance production for children „Panama labai graži“, and the Lithuanian National Opera and Ballet Theatre staged the premiere of the ballet „Saulės dukros“ (Daughters of the Sun), produced by the Neli Beliakaitė Baltic Ballet Academy. That same year the Gaida festival presented „Fire Games for Two“, the first Lithuanian double concerto for percussion and string orchestra, and audiences also welcomed the productions „Muzikos miestas“ (Music City) and „Žemaitė N. 18 (0)“. Her portfolio is further enriched by the dance production for children „Pelėda Drūlija“ (Drūlija the Owl), staged by the Lithuanian State Ensemble “Lietuva” in 2024; „Camino Real“, presented at the Juozas Miltinis Drama Theatre in Panevėžys in 2023; and the dance production „Einu namo“ (I’m Going Home), which premiered in Visaginas in 2022.",
+   "Earlier notable works include the dance-movement film „Anapus sienų“ (Beyond the Walls, 2021), the ballet for children „Kai atbunda žaislai“ (When the Toys Awaken, 2021), the piece for soprano and string orchestra „Iš tamsos į šviesą“ (From Darkness to Light, 2021), and the composition for string orchestra „Black Grass Town“ (2019), written to mark the 35th anniversary of the Chernobyl disaster. Silvija’s music is performed by distinguished ensembles, among them the Lithuanian Chamber Orchestra, the Lithuanian National Symphony Orchestra, the St. Christopher Chamber Orchestra, the Kaunas City Symphony Orchestra, Kremerata Lituanica and the Lithuanian State Ensemble “Lietuva”. Her works are interpreted by renowned soloists in Lithuania and abroad, who actively enrich the contemporary music repertoire.",
+   "Miliūnaitė’s music is widely presented at international festivals, including Gaida, the Vilnius Festival, the Pažaislis Music Festival, Glasperlenspiel (Estonia) and Sommets Musicaux de Gstaad (Switzerland). Among her interdisciplinary projects, she initiated the musical photography exhibition „Kelias migloje“ (Foggy Road) together with V. Usinavičius-Augulis, in which electroacoustic music and analogue photography merge into a single narrative. International recognition also marks „Green Journey“ for two violins and electronics, written for the centenary of Japanese–Lithuanian friendship and premiered in Kanazawa, Japan. Her openness to popular culture shows in a collaboration with the cult rock band Antis, whose album „Baisiai džiugu“ features her „Antisimfonija“. Her works are heard not only in Lithuania but also in Japan, Germany, Austria, Switzerland, France, Belgium, Hungary, Ukraine, Azerbaijan, Estonia and Latvia.",
+   "Silvija Miliūnaitė studied violin and composition at the Juozas Naujalis Music Gymnasium in Kaunas, in the class of Algirdas Brilius. She received a bachelor’s degree in composition in 2019 and a master’s degree in 2022 from the Lithuanian Academy of Music and Theatre, in the class of Prof. Mindaugas Urbaitis."
+  ]
+ },
+ "hero": {
+  "id": "img-1628-814f",
+  "focus": "72% 40%"
+ },
+ "bio_photo": {
+  "id": "image00005-373d",
+  "credit": "M. Kulikauskaitė"
+ },
+ "email": "silvija.miliunaite@gmail.com",
+ "form_access_key": "0702c6d3-72fe-43e4-9b53-335eb01b6403",
+ "social": [
+  [
+   {
+    "lt": "Facebook",
+    "en": "Facebook"
+   },
+   "https://www.facebook.com/mbsilvija/"
+  ],
+  [
+   {
+    "lt": "Facebook (puslapis)",
+    "en": "Facebook (page)"
+   },
+   "https://www.facebook.com/silvijamiliunaite.official"
+  ],
+  [
+   "Instagram",
+   "https://www.instagram.com/silvijamiliunaite"
+  ],
+  [
+   "YouTube",
+   "https://www.youtube.com/@SilvijaMiliunaite"
+  ],
+  [
+   "Spotify",
+   "https://open.spotify.com/artist/0WEJnONR8JSXzHgPDLVPZs"
+  ],
+  [
+   "Deezer",
+   "https://www.deezer.com/en/artist/297244121"
+  ],
+  [
+   "Apple Music",
+   "https://music.apple.com/ca/artist/silvija-mili%C5%ABnait%C4%97/1789368708"
+  ],
+  [
+   "Pakartot.lt",
+   "https://www.pakartot.lt/alias/silvija-miliunaite-bliudziuviene"
+  ],
+  [
+   "Lietuvos muzikos informacijos centras",
+   "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/miliunaite/"
+  ]
+ ],
+ "ui": {
+  "listen": {
+   "lt": "Klausyti",
+   "en": "Listen"
+  },
+  "read": {
+   "lt": "Skaityti biografiją",
+   "en": "Read biography"
+  },
+  "write": {
+   "lt": "Rašyti",
+   "en": "Get in touch"
+  },
+  "photo": {
+   "lt": "Foto",
+   "en": "Photo"
+  },
+  "send": {
+   "lt": "Siųsti žinutę",
+   "en": "Send message"
+  },
+  "email": {
+   "lt": "El. paštas",
+   "en": "Email"
+  },
+  "subject": {
+   "lt": "Tema",
+   "en": "Subject"
+  },
+  "msg": {
+   "lt": "Jūsų žinutė",
+   "en": "Your message"
+  },
+  "find": {
+   "lt": "Rasite čia",
+   "en": "Find me on"
+  },
+  "lang": {
+   "lt": "EN",
+   "en": "LT"
+  },
+  "menu": {
+   "lt": "Meniu",
+   "en": "Menu"
+  },
+  "thanks": {
+   "lt": "Ačiū! Žinutė išsiųsta.",
+   "en": "Thank you! Your message has been sent."
+  },
+  "name": {
+   "lt": "Vardas",
+   "en": "Name"
+  },
+  "close": {
+   "lt": "Uždaryti",
+   "en": "Close"
+  },
+  "sending": {
+   "lt": "Siunčiama…",
+   "en": "Sending…"
+  },
+  "title": {
+   "lt": "Parašykite man",
+   "en": "Write to me"
+  },
+  "lead": {
+   "lt": "Atsakysiu kuo greičiau.",
+   "en": "I will reply as soon as I can."
+  },
+  "err": {
+   "lt": "Nepavyko išsiųsti. Parašykite tiesiai: ",
+   "en": "Could not send. Please write directly to: "
+  },
+  "more": {
+   "lt": "Daugiau",
+   "en": "More"
+  },
+  "tickets": {
+   "lt": "Bilietai",
+   "en": "Tickets"
+  },
+  "alldates": {
+   "lt": "Visos datos",
+   "en": "All dates"
+  },
+  "upcoming": {
+   "lt": "Artimiausi renginiai",
+   "en": "Upcoming events"
+  },
+  "past": {
+   "lt": "Įvykę renginiai",
+   "en": "Past events"
+  },
+  "none": {
+   "lt": "Artimiausių renginių kol kas nėra.",
+   "en": "No upcoming events at the moment."
+  },
+  "search": {
+   "lt": "Ieškoti kūrinio…",
+   "en": "Search works…"
+  },
+  "all": {
+   "lt": "Visi",
+   "en": "All"
+  },
+  "stage": {
+   "lt": "Scena",
+   "en": "Stage"
+  },
+  "orch": {
+   "lt": "Orkestrui",
+   "en": "Orchestral"
+  },
+  "chamber": {
+   "lt": "Kamerinė",
+   "en": "Chamber"
+  },
+  "vocal": {
+   "lt": "Vokalinė",
+   "en": "Vocal"
+  },
+  "spotify_all": {
+   "lt": "Visa kūryba „Spotify“",
+   "en": "All music on Spotify"
+  },
+  "playx": {
+   "lt": "Klausyti ištrauką",
+   "en": "Play excerpt"
+  },
+  "nores": {
+   "lt": "Nieko nerasta.",
+   "en": "Nothing found."
+  },
+  "perr": {
+   "lt": "Nepavyko paleisti įrašo",
+   "en": "Could not play this recording"
+  },
+  "works": {
+   "lt": "kūriniai",
+   "en": "works"
+  },
+  "sc_title": {
+   "lt": "Natos ir partitūros",
+   "en": "Scores and parts"
+  },
+  "sc_text": {
+   "lt": "Dėl natų – partitūrų ir orkestrinių partijų – įsigyjimo prašome susisiekti.",
+   "en": "For scores and orchestral parts, please get in touch."
+  },
+  "sc_btn": {
+   "lt": "Užsakyti natas",
+   "en": "Request scores"
+  },
+  "sc_subj": {
+   "lt": "Natos / partitūros",
+   "en": "Scores and parts"
+  },
+  "abbr": {
+   "lt": "Santrumpos",
+   "en": "Abbreviations"
+  },
+  "w_yt": {
+   "lt": "Žiūrėti „YouTube“",
+   "en": "Watch on YouTube"
+  },
+  "w_vm": {
+   "lt": "Žiūrėti „Vimeo“",
+   "en": "Watch on Vimeo"
+  },
+  "w_play": {
+   "lt": "Paleisti vaizdo įrašą",
+   "en": "Play video"
+  },
+  "g_note": {
+   "lt": "Šia galerija gali naudotis spauda. Naudojant nuotraukas prašome nurodyti autorių.",
+   "en": "This gallery may be used by the press. Please credit the photographer when using the images."
+  },
+  "portrait": {
+   "lt": "Kompozitorė",
+   "en": "Composer"
+  },
+  "stage2": {
+   "lt": "Scena ir koncertai",
+   "en": "Stage and concerts"
+  },
+  "prev": {
+   "lt": "Ankstesnė",
+   "en": "Previous"
+  },
+  "next": {
+   "lt": "Kita",
+   "en": "Next"
+  },
+  "p_read": {
+   "lt": "Skaityti šaltinį",
+   "en": "Read the source"
+  },
+  "p_tr": {
+   "lt": "",
+   "en": "Quotations have been translated from Lithuanian."
+  },
+  "kit": {
+   "lt": "Press kit",
+   "en": "Press kit"
+  },
+  "kit_intro": {
+   "lt": "Nuotraukas ir tekstus galima naudoti pranešant apie Silvijos Miliūnaitės kūrybą. Prašome nurodyti fotografo vardą.",
+   "en": "Photos and texts may be used when reporting on Silvija Miliūnaitė’s work. Please credit the photographer."
+  },
+  "sbio": {
+   "lt": "Trumpa biografija",
+   "en": "Short biography"
+  },
+  "lbio": {
+   "lt": "Pilna biografija",
+   "en": "Full biography"
+  },
+  "copy": {
+   "lt": "Kopijuoti tekstą",
+   "en": "Copy text"
+  },
+  "copied": {
+   "lt": "Nukopijuota ✓",
+   "en": "Copied ✓"
+  },
+  "photos": {
+   "lt": "Nuotraukos spaudai",
+   "en": "Photos for the press"
+  },
+  "dlj": {
+   "lt": "Atsisiųsti JPG",
+   "en": "Download JPG"
+  },
+  "dlall": {
+   "lt": "Atsisiųsti visas (ZIP)",
+   "en": "Download all (ZIP)"
+  },
+  "photo_hint": {
+   "lt": "Nuotraukos yra tinkamos internetinei publikacijai. Spaudai (didesniam formatui) rašykite el. paštu, atsiųsime originalus.",
+   "en": "Photos are suitable for online publication. For print (larger formats), please get in touch and we will send the originals."
+  },
+  "wl": {
+   "lt": "Kūrinių sąrašas",
+   "en": "List of works"
+  },
+  "wl_btn": {
+   "lt": "Atidaryti kūrinių sąrašą",
+   "en": "Open the list of works"
+  },
+  "wl_print": {
+   "lt": "Spausdinti / išsaugoti PDF",
+   "en": "Print / save as PDF"
+  },
+  "quotes": {
+   "lt": "Citatos",
+   "en": "Quotes"
+  },
+  "c_title": {
+   "lt": "Pavadinimas",
+   "en": "Title"
+  },
+  "c_sc": {
+   "lt": "Sudėtis",
+   "en": "Scoring"
+  },
+  "c_year": {
+   "lt": "Metai",
+   "en": "Year"
+  },
+  "c_dur": {
+   "lt": "Trukmė",
+   "en": "Duration"
+  },
+  "priv": {
+   "lt": "Siųsdami žinutę sutinkate, kad jūsų el. paštas ir žinutė būtų naudojami tik atsakymui.",
+   "en": "By sending a message you agree that your email address and message will be used only to reply to you."
+  },
+  "nf_t": {
+   "lt": "Puslapis nerastas",
+   "en": "Page not found"
+  },
+  "nf_p": {
+   "lt": "Tokio puslapio nėra arba jis perkeltas.",
+   "en": "This page does not exist or has been moved."
+  },
+  "pk_t": {
+   "lt": "Žurnalistams ir organizatoriams",
+   "en": "For journalists and promoters"
+  },
+  "pk_p": {
+   "lt": "Nuotraukos, biografijos ir kūrinių sąrašas atsisiuntimui.",
+   "en": "Photos, biographies and a list of works to download."
+  },
+  "pk_btn": {
+   "lt": "Atidaryti Press kit",
+   "en": "Open the Press kit"
+  },
+  "back_press": {
+   "lt": "← Spauda",
+   "en": "← Press"
+  }
+ },
+ "spotify_artist": "https://open.spotify.com/artist/0WEJnONR8JSXzHgPDLVPZs",
+ "legend": [
+  {
+   "k": "vn",
+   "lt": "smuikas",
+   "en": "violin"
+  },
+  {
+   "k": "va",
+   "lt": "altas",
+   "en": "viola"
+  },
+  {
+   "k": "vc",
+   "lt": "violončelė",
+   "en": "cello"
+  },
+  {
+   "k": "cb",
+   "lt": "kontrabosas",
+   "en": "double bass"
+  },
+  {
+   "k": "fl",
+   "lt": "fleita",
+   "en": "flute"
+  },
+  {
+   "k": "ob",
+   "lt": "obojus",
+   "en": "oboe"
+  },
+  {
+   "k": "ca",
+   "lt": "anglų ragas",
+   "en": "cor anglais"
+  },
+  {
+   "k": "acc",
+   "lt": "akordeonas",
+   "en": "accordion"
+  },
+  {
+   "k": "pf",
+   "lt": "fortepijonas",
+   "en": "piano"
+  },
+  {
+   "k": "perc",
+   "lt": "mušamieji",
+   "en": "percussion"
+  },
+  {
+   "k": "vib",
+   "lt": "vibrafonas",
+   "en": "vibraphone"
+  },
+  {
+   "k": "birb",
+   "lt": "birbynė",
+   "en": "Lithuanian reed pipe (birbynė)"
+  },
+  {
+   "k": "S",
+   "lt": "sopranas",
+   "en": "soprano"
+  },
+  {
+   "k": "Mez",
+   "lt": "mecosopranas",
+   "en": "mezzo-soprano"
+  },
+  {
+   "k": "A",
+   "lt": "altas",
+   "en": "alto"
+  },
+  {
+   "k": "T",
+   "lt": "tenoras",
+   "en": "tenor"
+  },
+  {
+   "k": "B",
+   "lt": "bosas",
+   "en": "bass"
+  },
+  {
+   "k": "SATB",
+   "lt": "mišrus choras",
+   "en": "mixed choir"
+  },
+  {
+   "k": "el",
+   "lt": "elektronika",
+   "en": "electronics"
+  },
+  {
+   "k": "tape",
+   "lt": "fonograma",
+   "en": "fixed media (tape)"
+  },
+  {
+   "k": "orch",
+   "lt": "orkestras",
+   "en": "orchestra"
+  },
+  {
+   "k": "str orch",
+   "lt": "styginių orkestras",
+   "en": "string orchestra"
+  },
+  {
+   "k": "solo",
+   "lt": "solistas",
+   "en": "soloist"
+  }
+ ],
+ "bio_short": {
+  "lt": "Silvija Miliūnaitė – šiuolaikinės muzikos lietuvių kompozitorė, kurios kūryba apima koncertinę muziką, veikalus teatrui, šokiui bei tarpdisciplininius projektus. 2026 m. už spektaklį „Panama labai graži“ nominuota „Auksiniam scenos kryžiui“. Tarptautinėje spaudoje apibūdinama kaip „kylanti Lietuvos žvaigždė“ (erpmusic.com), kompozitorė savo muzikoje jungia subtilų mikromelodinį judėjimą, ryškų ritmą ir emocinį skaidrumą, o minimalistinę ir neoromantinę estetiką papildo elektronika. Jos muziką atlieka Lietuvos kamerinis orkestras, Lietuvos valstybinis simfoninis orkestras, „Kremerata Lituanica“, ansamblis „Lietuva“ ir kiti kolektyvai Lietuvoje bei užsienyje; kūriniai skamba ir Japonijoje, Vokietijoje, Austrijoje, Šveicarijoje, Prancūzijoje bei kitose šalyse.",
+  "en": "Silvija Miliūnaitė is a Lithuanian composer of contemporary music whose work spans concert music, works for theatre and dance, and interdisciplinary projects. In 2026 she was nominated for the Golden Stage Cross for the children’s production “Panama labai graži” (How Beautiful Panama). Described in the international press as a “rising Lithuanian star” (erpmusic.com), she combines subtle micro-melodic movement, vivid rhythm and emotional transparency, while electronics extend her minimalist, neo-romantic aesthetic. Her music is performed by the Lithuanian Chamber Orchestra, the Lithuanian National Symphony Orchestra, Kremerata Lituanica, the State Ensemble “Lietuva” and other ensembles in Lithuania and abroad, and has been heard in Japan, Germany, Austria, Switzerland, France and elsewhere."
+ },
+ "youtube_channel": "https://www.youtube.com/@SilvijaMiliunaite"
+}

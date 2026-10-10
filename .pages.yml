@@ -1,0 +1,83 @@
+# Valdymo skydelis (Pages CMS: https://app.pagescms.org). Čia aprašyta, kokias formas rodyti.
+media:
+  - name: nuotraukos
+    label: Naujos galerijos nuotraukos
+    input: naujos-nuotraukos
+    output: /naujos-nuotraukos
+    extensions: [jpg, jpeg, png]
+content:
+  - name: events
+    label: Renginiai (kalendorius)
+    type: file
+    path: content/events.json
+    format: json
+    fields:
+      - name: items
+        label: Renginiai
+        type: object
+        list: true
+        fields:
+          - name: date
+            label: Data (metai-mėnuo-diena, pvz. 2026-11-05)
+            type: string
+            required: true
+            pattern:
+              regex: '^\d{4}-\d{2}-\d{2}$'
+              message: Rašykite taip - 2026-11-05
+          - name: time
+            label: Laikas (pvz. 19:00; nebūtina)
+            type: string
+            pattern:
+              regex: '^\d{2}:\d{2}$'
+              message: Rašykite taip - 19:00
+          - name: title
+            label: Pavadinimas
+            type: object
+            fields:
+              - {name: lt, label: Lietuviškai, type: string, required: true}
+              - {name: en, label: English, type: string, required: true}
+          - name: place
+            label: Vieta
+            type: object
+            fields:
+              - {name: lt, label: Lietuviškai, type: string}
+              - {name: en, label: English, type: string}
+          - name: url
+            label: "Nuoroda (bilietų ar informacijos)"
+            type: string
+          - name: tickets
+            label: "Čia parduodami bilietai (rodyti mygtuką „Bilietai“)"
+            type: boolean
+          - name: more
+            label: "Nuoroda „Visos datos“ (nebūtina)"
+            type: string
+          - name: img
+            label: "Nuotraukos vardas (nebūtina, palikite kaip yra)"
+            type: string
+  - name: press
+    label: Spauda (citatos)
+    type: file
+    path: content/press.json
+    format: json
+    fields:
+      - name: items
+        label: Citatos
+        type: object
+        list: true
+        fields:
+          - name: quote
+            label: Citata
+            type: object
+            fields:
+              - {name: lt, label: Lietuviškai, type: text, required: true}
+              - {name: en, label: English, type: text, required: true}
+          - name: source
+            label: "Šaltinis (pvz. Lrytas.lt)"
+            type: string
+            required: true
+          - name: year
+            label: "Metai (nebūtina)"
+            type: string
+          - name: url
+            label: "Straipsnio nuoroda"
+            type: string

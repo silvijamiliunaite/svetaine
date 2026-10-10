@@ -1,0 +1,107 @@
+{
+ "items": [
+  {
+   "date": "2026-12-10",
+   "time": "12:00",
+   "title": {
+    "lt": "Šokio spektaklis vaikams „Panama labai graži“",
+    "en": "Dance production for children “Panama labai graži”"
+   },
+   "url": "https://klaipedosmuzikinis.lt/repertuaras/panama-labai-grazi/",
+   "place": {
+    "lt": "Klaipėdos valstybinis muzikinis teatras, Klaipėda",
+    "en": "Klaipėda State Music Theatre, Klaipėda"
+   }
+  },
+  {
+   "date": "2026-12-11",
+   "time": "18:00",
+   "title": {
+    "lt": "Šokio spektaklis vaikams „Panama labai graži“",
+    "en": "Dance production for children “Panama labai graži”"
+   },
+   "url": "https://klaipedosmuzikinis.lt/repertuaras/panama-labai-grazi/",
+   "place": {
+    "lt": "Klaipėdos valstybinis muzikinis teatras, Klaipėda",
+    "en": "Klaipėda State Music Theatre, Klaipėda"
+   }
+  },
+  {
+   "date": "2026-12-12",
+   "time": "12:00",
+   "title": {
+    "lt": "Šokio spektaklis vaikams „Panama labai graži“",
+    "en": "Dance production for children “Panama labai graži”"
+   },
+   "url": "https://klaipedosmuzikinis.lt/repertuaras/panama-labai-grazi/",
+   "place": {
+    "lt": "Klaipėdos valstybinis muzikinis teatras, Klaipėda",
+    "en": "Klaipėda State Music Theatre, Klaipėda"
+   }
+  },
+  {
+   "date": "2026-12-13",
+   "time": "12:00",
+   "title": {
+    "lt": "Šokio spektaklis vaikams „Panama labai graži“",
+    "en": "Dance production for children “Panama labai graži”"
+   },
+   "url": "https://klaipedosmuzikinis.lt/repertuaras/panama-labai-grazi/",
+   "place": {
+    "lt": "Klaipėdos valstybinis muzikinis teatras, Klaipėda",
+    "en": "Klaipėda State Music Theatre, Klaipėda"
+   }
+  },
+  {
+   "date": "2027-01-23",
+   "time": "12:00",
+   "title": {
+    "lt": "Muzikinis spektaklis vaikams „Pelėda Drūlija 1 | Kaip Drūlija kantrybės ieškojo“",
+    "en": "Musical for children “Pelėda Drūlija 1 | How Drūlija Looked for Patience”"
+   },
+   "place": {
+    "lt": "Kauno kultūros centro Girstučio padalinys, Kaunas",
+    "en": "Girstutis branch of Kaunas Cultural Centre, Kaunas"
+   },
+   "url": "https://www.bilietai.lt/renginiai/DDEJXFBSGQ/kaunas-peleda-drulija-1-kaip-drulija-kantrybes-ieskojo",
+   "tickets": true,
+   "more": "https://ansamblis-lietuva.lt/programa/muzikinis-spektaklis-vaikams-peleda-drulija/",
+   "img": "peleda"
+  },
+  {
+   "date": "2026-04-18",
+   "title": {
+    "lt": "Festivalis „Confluence Music“: skambėjo „Circle Games“, atlieka „Tutto a Dio“",
+    "en": "Confluence Music Festival: “Circle Games” performed by Tutto a Dio"
+   },
+   "place": {
+    "lt": "Ciurichas, Šveicarija",
+    "en": "Zurich, Switzerland"
+   }
+  },
+  {
+   "date": "2026-03-28",
+   "title": {
+    "lt": "Koncertas Europos Taryboje: skambėjo „Circle Games“, atlieka „Tutto a Dio“",
+    "en": "Concert at the Council of Europe: “Circle Games” performed by Tutto a Dio"
+   },
+   "place": {
+    "lt": "Strasbūras, Prancūzija",
+    "en": "Strasbourg, France"
+   }
+  },
+  {
+   "date": "2026-09-12",
+   "time": "12:00",
+   "title": {
+    "lt": "Muzikinis spektaklis vaikams „Pelėda Drūlija 1“",
+    "en": "Musical for children “Pelėda Drūlija 1”"
+   },
+   "place": {
+    "lt": "Šokio teatras, Vilnius",
+    "en": "Dance Theatre, Vilnius"
+   },
+   "url": "https://ansamblis-lietuva.lt/renginys/muzikinis-spektaklis-vaikams-peleda-drulija-1-vilnius-09-12/"
+  }
+ ]
+}

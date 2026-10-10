@@ -1,0 +1,515 @@
+[
+ {
+  "title": "SYZYGY: Coincidentia Oppositorum",
+  "scoring": "vn solo, vc solo, str orch",
+  "year": "2026",
+  "dur": "17'",
+  "cat": "orch",
+  "audio": null,
+  "links": []
+ },
+ {
+  "title": "MKČ: Amžinybės žaidimai",
+  "scoring": {
+   "lt": "vn, vc, el (tape), šokėja, skaitovas",
+   "en": "vn, vc, el (tape), dancer, narrator"
+  },
+  "year": "2025",
+  "dur": "60'",
+  "cat": "stage",
+  "audio": "MKC_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Panama labai graži",
+  "scoring": {
+   "lt": "baletas · orch, tape, SATB (gyvai arba tape)",
+   "en": "ballet · orch, tape, SATB (live or tape)"
+  },
+  "year": "2025",
+  "dur": "60'",
+  "cat": "stage",
+  "audio": "Panama_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Fire Games for Two",
+  "scoring": {
+   "lt": "dvigubas koncertas · 2perc solo, str orch",
+   "en": "double concerto · 2perc solo, str orch"
+  },
+  "year": "2025",
+  "dur": "27'",
+  "cat": "orch",
+  "audio": "Fire_Games_excerpt.mp3",
+  "links": [
+   [
+    "YouTube",
+    "https://www.youtube.com/watch?v=d7YB6WjdAbA"
+   ]
+  ]
+ },
+ {
+  "title": "Saulės dukros",
+  "scoring": {
+   "lt": "baletas · orch, tape",
+   "en": "ballet · orch, tape"
+  },
+  "year": "2024",
+  "dur": "60'",
+  "cat": "stage",
+  "audio": "Saules_dukros_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Games of Time",
+  "scoring": "orch",
+  "year": "2024",
+  "dur": "14'",
+  "cat": "orch",
+  "audio": "Games_of_Time_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Pelėda Drūlija",
+  "scoring": "SSA, SATB, orch",
+  "year": "2024",
+  "dur": "",
+  "cat": "stage",
+  "audio": "Drulija_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": {
+   "lt": "Operėlė „Muzikos miestas“",
+   "en": "Operetta “Muzikos miestas” (Music City)"
+  },
+  "scoring": "S, Mez, B, B, SATB, orch",
+  "year": "2025",
+  "dur": "",
+  "cat": "stage",
+  "audio": "Muzikos_miestas_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Baltic Games",
+  "scoring": "vn, vc, 2perc",
+  "year": "2023",
+  "dur": "12'",
+  "cat": "chamber",
+  "audio": "Baltic_Games_excerpt.mp3",
+  "links": [
+   [
+    "YouTube",
+    "https://www.youtube.com/watch?v=CApXNz5Iy34"
+   ]
+  ]
+ },
+ {
+  "title": "Camino Real",
+  "scoring": "orch",
+  "year": "2023",
+  "dur": "3 h",
+  "cat": "stage",
+  "audio": "Camino-real_exerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Circle Games",
+  "scoring": "vi-la and acc",
+  "year": "2023",
+  "dur": "10'",
+  "cat": "chamber",
+  "audio": null,
+  "links": []
+ },
+ {
+  "title": "Dona Kichotė",
+  "scoring": "S, SATB, birb, tape",
+  "year": "2022",
+  "dur": "20'",
+  "cat": "stage",
+  "audio": "Dona-Kichote_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Cello Concerto",
+  "scoring": "vc solo, str orch",
+  "year": "2022",
+  "dur": "24'",
+  "cat": "orch",
+  "audio": "Cello-Concerto_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Foggy Road | Kelias migloje",
+  "scoring": "vn, vc, tape",
+  "year": "2022",
+  "dur": "30'",
+  "cat": "chamber",
+  "audio": "Foggy-road_excerpt.mp3",
+  "links": [
+   [
+    "Spotify",
+    "https://open.spotify.com/album/33pMN7u8PzDDP6KSE8Lhs4?si=hpA984z2QTG1hkKcrMIsqg"
+   ]
+  ]
+ },
+ {
+  "title": "Green Journey",
+  "scoring": "2vn, tape",
+  "year": "2022",
+  "dur": "9'30",
+  "cat": "chamber",
+  "audio": "Green_Journey_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Einu namo",
+  "scoring": "orch",
+  "year": "2022",
+  "dur": "40'",
+  "cat": "stage",
+  "audio": "Einu-namo_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Anapus sienų",
+  "scoring": "vc, pf, tape",
+  "year": "2021",
+  "dur": "10'15",
+  "cat": "chamber",
+  "audio": "Anapus-sienu_-beyond-the-walls_excerpt.mp3",
+  "links": [
+   [
+    "Vimeo",
+    "https://vimeo.com/654554003/b6ebbff93a"
+   ]
+  ]
+ },
+ {
+  "title": "Siūbuojanti žemė (archyvas)",
+  "scoring": {
+   "lt": "4S, SATB, lietuvių liaudies orch, tape",
+   "en": "4S, SATB, Lithuanian folk orch, tape"
+  },
+  "year": "2021",
+  "dur": "15'30",
+  "cat": "stage",
+  "audio": "Siubuojanti-zeme_excerpt.mp3",
+  "links": [
+   [
+    "YouTube",
+    "https://www.youtube.com/watch?v=3yRNGug_FFU&t=18s"
+   ]
+  ],
+  "note": {
+   "lt": "Tekstas: Sondra Simana. Kalba: lietuvių",
+   "en": "Text: Sondra Simana. Language: Lithuanian"
+  }
+ },
+ {
+  "title": "I Am Here for You",
+  "scoring": "str orch",
+  "year": "2021",
+  "dur": "12'30",
+  "cat": "orch",
+  "audio": "I-am-here-for-You_excerpt.mp3",
+  "links": [
+   [
+    "YouTube",
+    "https://youtube.com/playlist?list=PLzl4K9991Wha_qNqu1sJM46T7CXDmo7Oe&si=sqWuPXV1cUmgOiAB"
+   ],
+   [
+    "Spotify",
+    "https://open.spotify.com/album/2oeLIA6penTyc688ehdhfO?si=_Mi904QIQwWkSHkZpUaaxw"
+   ]
+  ]
+ },
+ {
+  "title": "I Am Here for You",
+  "scoring": "vn, vc, pf, tape",
+  "year": "2021",
+  "dur": "12'30",
+  "cat": [
+   "chamber",
+   "stage"
+  ],
+  "audio": "I-am-here-for-You_vn-vc-pf_excerpt.mp3",
+  "links": [
+   [
+    "YouTube",
+    "https://youtube.com/playlist?list=PLzl4K9991Wha_qNqu1sJM46T7CXDmo7Oe&si=sqWuPXV1cUmgOiAB"
+   ],
+   [
+    "Spotify",
+    "https://open.spotify.com/album/2oeLIA6penTyc688ehdhfO?si=_Mi904QIQwWkSHkZpUaaxw"
+   ]
+  ]
+ },
+ {
+  "title": "Drive for Life",
+  "scoring": "vn solo, vc solo, str orch",
+  "year": "2021",
+  "dur": "13'15",
+  "cat": "orch",
+  "audio": "Drive-for-Life_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Iš tamsos į šviesą",
+  "scoring": "S solo, str orch",
+  "year": "2021",
+  "dur": "13'",
+  "cat": [
+   "orch",
+   "vocal"
+  ],
+  "audio": "Is-tamsos-i-sviesa_excerpt.mp3",
+  "links": [
+   [
+    "Muzikos antena",
+    "https://muzikosantena.lt/2021/04/28/kompozitore-silvija-miliunaite-bliudziuviene-ir-kremerata-lituanica-ruosia-bendra-projekta/"
+   ]
+  ]
+ },
+ {
+  "title": "Kai atbunda žaislai",
+  "scoring": {
+   "lt": "baletas · orch, tape",
+   "en": "ballet · orch, tape"
+  },
+  "year": "2020",
+  "dur": "50'",
+  "cat": "stage",
+  "audio": "When-Toys-come-to-life_excerpt.mp3",
+  "links": [
+   [
+    "YouTube",
+    "https://youtube.com/playlist?list=PLzl4K9991WhZN3yWeWpUCoCvvAIIYnMBZ&si=PUsjzErAtoPzu-Xg"
+   ],
+   [
+    "Spotify",
+    "https://open.spotify.com/album/5d175EFQfYBvxV42b3ytEs?si=i-IDE5AWSNGmiLMSgFVswg"
+   ]
+  ]
+ },
+ {
+  "title": "Circle",
+  "scoring": "vc, pf",
+  "year": "2020",
+  "dur": "6'30",
+  "cat": "chamber",
+  "audio": null,
+  "links": [
+   [
+    "Spotify",
+    "https://open.spotify.com/track/0wuDsQjRMplz6Oqog6KZ7h"
+   ]
+  ]
+ },
+ {
+  "title": "Black Grass Town",
+  "scoring": "str orch",
+  "year": "2019",
+  "dur": "23'15",
+  "cat": "orch",
+  "audio": "Black-Grass-Town_excerpt.mp3",
+  "links": [
+   [
+    "Music Lithuania",
+    "https://musiclithuania.com/lt/products/black-grass-town"
+   ]
+  ]
+ },
+ {
+  "title": "Violin Concerto",
+  "scoring": "vn solo, str orch",
+  "year": "2018-19",
+  "dur": "23'15",
+  "cat": "orch",
+  "audio": "Violin-Concerto_excerpt.mp3",
+  "links": [
+   [
+    "YouTube",
+    "https://www.youtube.com/watch?v=K8Tr4zpJ208&t=10s"
+   ],
+   [
+    "Music Lithuania",
+    "https://musiclithuania.com/lt/products/koncertas-smuikui"
+   ]
+  ]
+ },
+ {
+  "title": "Paukštis tolumoje",
+  "scoring": "vn, vc, pf",
+  "year": "2014",
+  "dur": "4'45",
+  "cat": "chamber",
+  "audio": "Bird-in-the-distance_excerpt.mp3",
+  "links": [
+   [
+    "YouTube",
+    "https://youtu.be/_tJC-8Iicnk?si=1jcbUT1Oa4AjddtA"
+   ],
+   [
+    "Music Lithuania",
+    "https://musiclithuania.com/lt/products/paukstis-tolumoje"
+   ]
+  ]
+ },
+ {
+  "title": "Mišios jaunimui",
+  "scoring": "SATB, pf, perc",
+  "year": "2014",
+  "dur": "25'",
+  "cat": "vocal",
+  "audio": null,
+  "links": []
+ },
+ {
+  "title": "Arbata dviems",
+  "scoring": "ob, 2vn, va, vc",
+  "year": "2014",
+  "dur": "4'40",
+  "cat": "chamber",
+  "audio": "Arbata-dviems_Tea-for-two_excerpt.mp3",
+  "links": [
+   [
+    "YouTube",
+    "https://youtu.be/rSWaceYLN4Q?si=ifB2Q6KIflHAI7lJ"
+   ]
+  ]
+ },
+ {
+  "title": "Tu mano sielai šviesa",
+  "scoring": "SSSS / TTTT / SSTT",
+  "year": "2013",
+  "dur": "3'",
+  "cat": "vocal",
+  "audio": null,
+  "links": []
+ },
+ {
+  "title": "Tu mano sielai šviesa",
+  "scoring": "SATB, orch",
+  "year": "2013",
+  "dur": "3'",
+  "cat": "vocal",
+  "audio": null,
+  "links": []
+ },
+ {
+  "title": "Tas tavo sustingęs žvilgsnis",
+  "scoring": "vib, va solo, 2vn, va, vc",
+  "year": "2013",
+  "dur": "5'20",
+  "cat": "chamber",
+  "audio": null,
+  "links": []
+ },
+ {
+  "title": "Paskutiniai laiškai",
+  "scoring": "vn solo, str orch",
+  "year": "2013",
+  "dur": "10'",
+  "cat": "orch",
+  "audio": null,
+  "links": []
+ },
+ {
+  "title": "Antisimfonija",
+  "scoring": "2vn, va, vc",
+  "year": "2013",
+  "dur": "20'",
+  "cat": "chamber",
+  "audio": "Antisimfonija_excerpt.mp3",
+  "links": [
+   [
+    "YouTube",
+    "https://www.youtube.com/watch?v=db7CvK_ZtkA&list=RDdb7CvK_ZtkA&start_radio=1"
+   ]
+  ]
+ },
+ {
+  "title": "Tavo širdies link",
+  "scoring": "S, A, SATB",
+  "year": "2013",
+  "dur": "5'20",
+  "cat": "vocal",
+  "audio": "Tavo-sirdies-link_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "Pasilieku tavo meilėje – man nieko netrūksta!",
+  "scoring": "vn, ob, pf, liet.",
+  "year": "2012",
+  "dur": "7'20",
+  "cat": "chamber",
+  "audio": "Pasilieku-tavo-meileje_excerpt.mp3",
+  "links": []
+ },
+ {
+  "title": "O bone Iesu",
+  "scoring": "TTTT / SSSS",
+  "year": "2012",
+  "dur": "4'30",
+  "cat": "vocal",
+  "audio": "O-bone-Iesu-excerpt.mp3",
+  "links": [
+   [
+    "YouTube",
+    "https://youtu.be/HdaSYXoxGK4?si=SqyNS82sHs0KbTE7"
+   ],
+   [
+    "Music Lithuania",
+    "https://musiclithuania.com/lt/products/o-bone-iesu"
+   ]
+  ]
+ },
+ {
+  "title": "Solus altissimus",
+  "scoring": "SATB, SATB",
+  "year": "2012",
+  "dur": "4'",
+  "cat": "vocal",
+  "audio": null,
+  "links": []
+ },
+ {
+  "title": "Pavasaris rudeny",
+  "scoring": "va, pf",
+  "year": "2011",
+  "dur": "4'",
+  "cat": "chamber",
+  "audio": null,
+  "links": []
+ },
+ {
+  "title": "Kelionė be bilieto atgal",
+  "scoring": "fl, pf",
+  "year": "2011",
+  "dur": "4'",
+  "cat": "chamber",
+  "audio": null,
+  "links": []
+ },
+ {
+  "title": "Naktis geležinkelio stotyje",
+  "scoring": "3cb",
+  "year": "2011",
+  "dur": "4'",
+  "cat": "chamber",
+  "audio": null,
+  "links": []
+ },
+ {
+  "title": "Kai kambaryje maža vietos arba, kai spaudžia batai",
+  "scoring": "2vn, ca, vc",
+  "year": "2011",
+  "dur": "6'18",
+  "cat": "chamber",
+  "audio": null,
+  "links": []
+ }
+]

@@ -1,0 +1,971 @@
+[
+ {
+  "id": "operavision",
+  "date": "2026-10-02",
+  "img": "panama",
+  "title": {
+   "lt": "„Panama labai graži“ – dabar ir „OperaVision“ platformoje",
+   "en": "“How Beautiful Panama” is now on OperaVision"
+  },
+  "text": {
+   "lt": "Šokio spektaklis vaikams „Panama labai graži“ jau pasiekiamas „OperaVision“ platformoje, kur jį nemokamai gali išvysti žiūrovai visame pasaulyje!",
+   "en": "The dance production for children “Panama labai graži” (How Beautiful Panama) is now available on OperaVision, where audiences around the world can watch it for free!"
+  },
+  "credits": [
+   [
+    {
+     "lt": "Choreografė",
+     "en": "Choreographer"
+    },
+    "Daria Verovka",
+    "https://www.facebook.com/profile.php?id=100023796004025"
+   ],
+   [
+    {
+     "lt": "Kompozitorė",
+     "en": "Composer"
+    },
+    "Silvija Miliūnaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Libreto autorė",
+     "en": "Librettist"
+    },
+    "Sondra Simana",
+    "https://www.facebook.com/sondra.simana"
+   ],
+   [
+    {
+     "lt": "Muzikos vadovas ir dirigentas",
+     "en": "Music director and conductor"
+    },
+    "Giedrius Vaznys",
+    "https://www.facebook.com/vaznys"
+   ],
+   [
+    {
+     "lt": "Scenografė",
+     "en": "Set designer"
+    },
+    "Sigita Šimkūnaitė",
+    "https://www.facebook.com/sigita.simkunaite"
+   ],
+   [
+    {
+     "lt": "Kostiumų dailininkė",
+     "en": "Costume designer"
+    },
+    "Sandra Straukaitė",
+    "https://www.facebook.com/profile.php?id=100006335471477"
+   ],
+   [
+    {
+     "lt": "Šviesų dailininkas",
+     "en": "Lighting designer"
+    },
+    "Andrius Stasiulis",
+    "https://www.facebook.com/andrius.stasiulis.18"
+   ],
+   [
+    {
+     "lt": "Teatras",
+     "en": "Theatre"
+    },
+    {
+     "lt": "Klaipėdos valstybinis muzikinis teatras",
+     "en": "Klaipėda State Music Theatre"
+    },
+    "https://www.facebook.com/klaipedosvalstybinis.muzikinisteatras"
+   ]
+  ],
+  "url": "https://operavision.eu/performance/how-beautiful-panama",
+  "label": {
+   "lt": "Žiūrėti „OperaVision“",
+   "en": "Watch on OperaVision"
+  },
+  "stream": true
+ },
+ {
+  "id": "mkc",
+  "date": "2026-03-14",
+  "img": "mkc",
+  "title": {
+   "lt": "„MKČ: Amžinybės žaidimai“ (pasaulinė premjera)",
+   "en": "“MKČ: Games of Eternity” (world premiere)"
+  },
+  "credits": [
+   [
+    {
+     "lt": "Kompozitorė, elektronika",
+     "en": "Composer, electronics"
+    },
+    "Silvija Miliūnaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Choreografė-šokėja",
+     "en": "Choreographer-dancer"
+    },
+    "Aušra Krasauskaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Smuikas",
+     "en": "Violin"
+    },
+    "Dalia Dėdinskaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Violončelė",
+     "en": "Cello"
+    },
+    "Gleb Pyšniak",
+    null
+   ],
+   [
+    {
+     "lt": "Balsas",
+     "en": "Voice"
+    },
+    "Andrius Bialobžeskis",
+    null
+   ]
+  ],
+  "place": {
+   "lt": "Vilniaus Gaono žydų muziejaus Tolerancijos centras, Vilnius",
+   "en": "Tolerance Centre of the Vilna Gaon Jewish State Museum, Vilnius"
+  },
+  "url": "https://kakava.lt/renginys/mkc-amzinybes-zaidimai/11105/22438",
+  "poster": true
+ },
+ {
+  "id": "panama-premiere",
+  "date": "2025-11-22",
+  "img": "panama",
+  "title": {
+   "lt": "Šokio spektaklio vaikams „Panama labai graži“ premjera",
+   "en": "Premiere of the dance production for children “Panama labai graži”"
+  },
+  "credits": [
+   [
+    {
+     "lt": "Kompozitorė",
+     "en": "Composer"
+    },
+    "Silvija Miliūnaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Libreto autorė",
+     "en": "Librettist"
+    },
+    "Sondra Simana",
+    null
+   ],
+   [
+    {
+     "lt": "Choreografė",
+     "en": "Choreographer"
+    },
+    "Daria Verovka",
+    null
+   ],
+   [
+    {
+     "lt": "Muzikos vadovas ir dirigentas",
+     "en": "Music director and conductor"
+    },
+    "Giedrius Vaznys",
+    null
+   ],
+   [
+    {
+     "lt": "Scenografė",
+     "en": "Set designer"
+    },
+    "Sigita Šimkūnaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Kostiumų dailininkė",
+     "en": "Costume designer"
+    },
+    "Sandra Straukaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Šviesų dailininkas",
+     "en": "Lighting designer"
+    },
+    "Andrius Stasiulis",
+    null
+   ]
+  ],
+  "url": "https://klaipedosmuzikinis.lt/repertuaras/panama-labai-grazi/",
+  "evtitle": {
+   "lt": "Šokio spektaklis vaikams „Panama labai graži“",
+   "en": "Dance production for children “Panama labai graži”"
+  },
+  "text": {
+   "lt": "Po premjeros Klaipėdoje spektaklis rodomas toliau.",
+   "en": "After its Klaipėda premiere, the production continues to be performed."
+  },
+  "dates": [
+   [
+    "2025-11-22",
+    "",
+    {
+     "lt": "Klaipėdos valstybinis muzikinis teatras, Klaipėda",
+     "en": "Klaipėda State Music Theatre, Klaipėda"
+    }
+   ],
+   [
+    "2025-11-23",
+    "",
+    {
+     "lt": "Klaipėdos valstybinis muzikinis teatras, Klaipėda",
+     "en": "Klaipėda State Music Theatre, Klaipėda"
+    }
+   ],
+   [
+    "2026-06-03",
+    "15:00",
+    {
+     "lt": "Klaipėdos valstybinis muzikinis teatras, Klaipėda",
+     "en": "Klaipėda State Music Theatre, Klaipėda"
+    }
+   ],
+   [
+    "2026-06-04",
+    "15:00",
+    {
+     "lt": "Klaipėdos valstybinis muzikinis teatras, Klaipėda",
+     "en": "Klaipėda State Music Theatre, Klaipėda"
+    }
+   ],
+   [
+    "2026-06-05",
+    "15:00",
+    {
+     "lt": "Klaipėdos valstybinis muzikinis teatras, Klaipėda",
+     "en": "Klaipėda State Music Theatre, Klaipėda"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "gaida25",
+  "date": "2025-10-22",
+  "img": "gaida",
+  "title": {
+   "lt": "GAIDA 2025: pirmasis lietuviškas dvigubas koncertas perkusijai ir styginių orkestrui „Fire Games for Two“ (pasaulinė premjera)",
+   "en": "GAIDA 2025: “Fire Games for Two”, the first Lithuanian double concerto for percussion and string orchestra (world premiere)"
+  },
+  "credits": [
+   [
+    {
+     "lt": "Atlieka",
+     "en": "Performed by"
+    },
+    {
+     "lt": "Lietuvos kamerinis orkestras",
+     "en": "Lithuanian Chamber Orchestra"
+    },
+    null
+   ],
+   [
+    {
+     "lt": "Solistai (mušamieji)",
+     "en": "Soloists (percussion)"
+    },
+    "Pavel Giunter, Guntars Freibergs",
+    null
+   ],
+   [
+    {
+     "lt": "Dirigentas",
+     "en": "Conductor"
+    },
+    "Elias Brown",
+    null
+   ]
+  ],
+  "place": {
+   "lt": "Lietuvos nacionalinė filharmonija, Vilnius, 19 val.",
+   "en": "Lithuanian National Philharmonic Hall, Vilnius, 7 pm"
+  },
+  "url": "https://www.vilniusfestivals.lt/festivalio-renginys/garsusis-lietuviu-pianistas-andrius-zlabys-ir-lietuvos-kamerinis-orkestras/"
+ },
+ {
+  "id": "muzikos-miestas",
+  "date": "2025-06-01",
+  "img": "muz",
+  "title": {
+   "lt": "Operėlė „Muzikos miestas“ – premjera",
+   "en": "Children’s operetta “Muzikos miestas” (Music City) – premiere"
+  },
+  "credits": [
+   [
+    {
+     "lt": "Kompozitorė",
+     "en": "Composer"
+    },
+    "Silvija Miliūnaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Režisierė",
+     "en": "Director"
+    },
+    "Birutė Mar",
+    null
+   ],
+   [
+    {
+     "lt": "Dirigentas",
+     "en": "Conductor"
+    },
+    "Rolandas Daugėla",
+    null
+   ]
+  ],
+  "place": {
+   "lt": "Kauno valstybinė filharmonija, 12 val.",
+   "en": "Kaunas State Philharmonic, 12 pm"
+  },
+  "url": "https://pazaislis.lt/naujiena/pazaislio-festivalyje-opereles-muzikos-miestas-vaikams-premjera/"
+ },
+ {
+  "id": "saules-dukros",
+  "date": "2025-05-25",
+  "img": "saules",
+  "title": {
+   "lt": "Baleto spektaklis „Saulės dukros“ – premjera",
+   "en": "Ballet “Saulės dukros” (Daughters of the Sun) – premiere"
+  },
+  "credits": [
+   [
+    {
+     "lt": "Kompozitorė",
+     "en": "Composer"
+    },
+    "Silvija Miliūnaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Choreografė–režisierė",
+     "en": "Director–choreographer"
+    },
+    "Laura Radzevičiūtė",
+    null
+   ],
+   [
+    {
+     "lt": "Kostiumų dailininkė",
+     "en": "Costume designer"
+    },
+    "Urtė Labutytė",
+    null
+   ],
+   [
+    {
+     "lt": "Šviesų dailininkas",
+     "en": "Lighting designer"
+    },
+    "Ievas Kleinas",
+    null
+   ],
+   [
+    {
+     "lt": "Projekcijų autorius",
+     "en": "Projection design"
+    },
+    "Rimas Sakalauskas",
+    null
+   ]
+  ],
+  "place": {
+   "lt": "Lietuvos nacionalinis operos ir baleto teatras, Neli Beliakaitės Baltijos baleto akademijos pastatymas",
+   "en": "Lithuanian National Opera and Ballet Theatre, a production by the Neli Beliakaitė Baltic Ballet Academy"
+  },
+  "url": "https://www.facebook.com/100064729864199/posts/grandiozinis-baleto-spektaklis-saul%C4%97s-dukros-sekmadien%C4%AF-suspindo-lnobt-scenoje-v/1143248277842824/"
+ },
+ {
+  "id": "peleda",
+  "date": "2024-12-01",
+  "img": "peleda",
+  "title": {
+   "lt": "Muzikinis spektaklis vaikams „Pelėda Drūlija“ – premjera",
+   "en": "Musical for children “Pelėda Drūlija” (Drūlija the Owl) – premiere"
+  },
+  "text": {
+   "lt": "Lietuvos valstybinis ansamblis „Lietuva“.",
+   "en": "Lithuanian State Ensemble “Lietuva”."
+  },
+  "credits": [
+   [
+    {
+     "lt": "Knygos autorė",
+     "en": "Author of the book"
+    },
+    "Inga Narijauskienė",
+    null
+   ],
+   [
+    {
+     "lt": "Režisierė",
+     "en": "Director"
+    },
+    "Giedrė Kriaučionytė-Vosylienė",
+    null
+   ],
+   [
+    {
+     "lt": "Libreto autorė",
+     "en": "Librettist"
+    },
+    "Daiva Čepauskaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Kompozitoriai",
+     "en": "Composers"
+    },
+    "Silvija Miliūnaitė, Pijus Narijauskas",
+    null
+   ],
+   [
+    {
+     "lt": "Choreografė",
+     "en": "Choreographer"
+    },
+    "Aušra Krasauskaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Scenografas ir kostiumų dailininkas",
+     "en": "Set and costume designer"
+    },
+    "Antanas Dubra",
+    null
+   ]
+  ],
+  "url": "https://ansamblis-lietuva.lt/programa/muzikinis-spektaklis-vaikams-peleda-drulija/",
+  "evtitle": {
+   "lt": "Muzikinis spektaklis vaikams „Pelėda Drūlija“",
+   "en": "Musical for children “Pelėda Drūlija”"
+  },
+  "dates": [
+   [
+    "2024-12-01",
+    "12:00, 15:00",
+    {
+     "lt": "„Šokio teatras“, Vilnius",
+     "en": "Dance Theatre, Vilnius"
+    }
+   ],
+   [
+    "2024-12-29",
+    "12:00",
+    {
+     "lt": "„Girstutis“, Kaunas",
+     "en": "Girstutis, Kaunas"
+    }
+   ],
+   [
+    "2025-01-18",
+    "",
+    {
+     "lt": "Marijampolės kultūros centras",
+     "en": "Marijampolė Cultural Centre"
+    }
+   ]
+  ],
+  "poster": true
+ },
+ {
+  "id": "camino",
+  "date": "2024-11-07",
+  "img": "camino",
+  "title": {
+   "lt": "„Camino Real“ – dviejų dalių poetinis absurdas",
+   "en": "“Camino Real” – a poetic absurd in two parts"
+  },
+  "credits": [
+   [
+    {
+     "lt": "Režisierius",
+     "en": "Director"
+    },
+    "Jonas Kuprevičius",
+    null
+   ],
+   [
+    {
+     "lt": "Kompozitorė",
+     "en": "Composer"
+    },
+    "Silvija Miliūnaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Scenografijos ir kostiumų dailininkas",
+     "en": "Set and costume designer"
+    },
+    "Arvydas Gudas",
+    null
+   ],
+   [
+    {
+     "lt": "Šviesų dailininkas",
+     "en": "Lighting designer"
+    },
+    "Vilius Vilutis",
+    null
+   ],
+   [
+    {
+     "lt": "Choreografė",
+     "en": "Choreographer"
+    },
+    "Olga Konošenko",
+    null
+   ]
+  ],
+  "place": {
+   "lt": "Juozo Miltinio dramos teatras, Panevėžys, 17:30 val.",
+   "en": "Juozas Miltinis Drama Theatre, Panevėžys, 5:30 pm"
+  },
+  "url": "https://www.miltinioteatras.lt/spektaklis/spektakliai/visi/camino-real/",
+  "poster": true
+ },
+ {
+  "id": "zemaite",
+  "date": "2025-02-21",
+  "img": "zemaite",
+  "title": {
+   "lt": "Šokio spektaklis „Žemaitė N.18(0)“ – premjera",
+   "en": "Dance production “Žemaitė N.18(0)” – premiere"
+  },
+  "text": {
+   "lt": "Po premjeros Vilniaus šokio teatre spektaklis keliavo po įvairius Lietuvos miestus ir kultūros centrus.",
+   "en": "After its premiere at the Vilnius Dance Theatre, the production toured various cities and cultural centres across Lithuania."
+  },
+  "credits": [
+   [
+    {
+     "lt": "Režisierė ir choreografė",
+     "en": "Director and choreographer"
+    },
+    "Aušra Krasauskaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Dramaturgė",
+     "en": "Dramaturg"
+    },
+    "Kristina Steiblytė",
+    null
+   ],
+   [
+    {
+     "lt": "Scenografijos ir kostiumų dailininkė",
+     "en": "Set and costume designer"
+    },
+    "Giedrė Brazytė",
+    null
+   ],
+   [
+    {
+     "lt": "Kompozitoriai",
+     "en": "Composers"
+    },
+    "Silvija Miliūnaitė, Nijolė Sinkevičiūtė, Vidmantas Bartulis, Faustas Latėnas, Giedrius Puskunigis",
+    null
+   ],
+   [
+    {
+     "lt": "Muzikinės dalies vadovė",
+     "en": "Head of music"
+    },
+    "Silvija Miliūnaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Šviesų dailininkas",
+     "en": "Lighting designer"
+    },
+    "Pijus Vasiliauskas",
+    null
+   ],
+   [
+    {
+     "lt": "Režisierės asistentė",
+     "en": "Assistant director"
+    },
+    "Giedrė Kriaučionytė-Vosylienė",
+    null
+   ]
+  ],
+  "place": {
+   "lt": "Vilniaus šokio teatras, Vilnius",
+   "en": "Vilnius Dance Theatre, Vilnius"
+  },
+  "url": "https://ansamblis-lietuva.lt/programa/sokio-spektaklis-zemaite-n-180/",
+  "poster": true
+ },
+ {
+  "id": "baltic-giunt",
+  "date": "2024-11-30",
+  "title": {
+   "lt": "„Baltic Games“, jubiliejinis Pavelo Giunterio koncertas „Per Giunt“",
+   "en": "“Baltic Games” at Pavel Giunter’s jubilee concert “Per Giunt”"
+  },
+  "credits": [
+   [
+    {
+     "lt": "Atlieka",
+     "en": "Performed by"
+    },
+    "The New Baltic Sound Quartet",
+    null
+   ],
+   [
+    {
+     "lt": "Muzikantai",
+     "en": "Musicians"
+    },
+    {
+     "lt": "Pavel Giunter (perkusija), Guntars Freibergs (perkusija, Latvija), Dalia Dėdinskaitė (smuikas), Gleb Pyšniak (violončelė)",
+     "en": "Pavel Giunter (percussion), Guntars Freibergs (percussion, Latvia), Dalia Dėdinskaitė (violin), Gleb Pyšniak (cello)"
+    },
+    null
+   ]
+  ],
+  "place": {
+   "lt": "LVSO koncertų salė, Vilnius, 19 val.",
+   "en": "LVSO Concert Hall, Vilnius, 7 pm"
+  },
+  "url": "https://www.lvso.lt/lt/renginiai/jubiliejinis-pavelo-giunterio-koncertas-per-giunt",
+  "img": "baltic"
+ },
+ {
+  "id": "games-of-time",
+  "date": "2024-10-31",
+  "title": {
+   "lt": "„Games of Time“ (pasaulinė premjera)",
+   "en": "“Games of Time” (world premiere)"
+  },
+  "credits": [
+   [
+    {
+     "lt": "Atlieka",
+     "en": "Performed by"
+    },
+    {
+     "lt": "Lietuvos valstybinis simfoninis orkestras",
+     "en": "Lithuanian State Symphony Orchestra"
+    },
+    null
+   ],
+   [
+    {
+     "lt": "Dirigentas",
+     "en": "Conductor"
+    },
+    "Robertas Šervenikas",
+    null
+   ]
+  ],
+  "place": {
+   "lt": "LVSO koncertų salė, Vilnius, 19 val.",
+   "en": "LVSO Concert Hall, Vilnius, 7 pm"
+  },
+  "url": "https://www.vilniusfestivals.lt/festivalio-renginys/smuiko-garsenybe-leticia-moreno-ir-lietuvos-valstybinis-simfoninis-orkestras/",
+  "img": "games"
+ },
+ {
+  "id": "glasperlenspiel",
+  "date": "2024-07-08",
+  "title": {
+   "lt": "Glasperlenspiel Festival 2024",
+   "en": "Glasperlenspiel Festival 2024"
+  },
+  "credits": [],
+  "text": {
+   "lt": "„The New Baltic Sound Quartet“ festivalyje atliks kompozitorės S. Miliūnaitės „Baltic Games“.",
+   "en": "The New Baltic Sound Quartet performs Silvija Miliūnaitė’s “Baltic Games” at the festival."
+  },
+  "url": "https://tartu2024.ee/en/programme-archive/glasperlenspiel-2024-castillo-interior/?event=96612",
+  "place": {
+   "lt": "Estija",
+   "en": "Estonia"
+  }
+ },
+ {
+  "id": "kulturmittag",
+  "date": "2024-04-16",
+  "title": {
+   "lt": "„Kulturmittag“ (Arts at Lunchtime), Viena",
+   "en": "“Kulturmittag” (Arts at Lunchtime), Vienna"
+  },
+  "credits": [],
+  "text": {
+   "lt": "Balandžio 16 d. Vienoje „The New Baltic Sound Quartet“ atliks Silvijos Miliūnaitės „Baltic Games“.",
+   "en": "On 16 April in Vienna, The New Baltic Sound Quartet performs Silvija Miliūnaitė’s “Baltic Games”."
+  },
+  "url": "https://muth.at/programm/kulturmittag-2024-04-16/",
+  "place": {
+   "lt": "Viena",
+   "en": "Vienna"
+  }
+ },
+ {
+  "id": "stiliu-degustacija",
+  "date": "2023-11",
+  "title": {
+   "lt": "„Stilių degustacija“: pasaulinė „Circle Games“ premjera",
+   "en": "“Stilių degustacija”: world premiere of “Circle Games”"
+  },
+  "credits": [],
+  "text": {
+   "lt": "Pristatoma specialiai duetui „Tutto a Dio“ parašyta Silvijos Miliūnaitės „Circle Games“.",
+   "en": "Silvija Miliūnaitė’s “Circle Games”, written especially for the duo Tutto a Dio, is premiered."
+  },
+  "url": "https://www.facebook.com/events/833750505097200/?ref=newsfeed",
+  "img": "stilius",
+  "when": {
+   "lt": "2023 m.",
+   "en": "2023"
+  },
+  "poster": true
+ },
+ {
+  "id": "kintai",
+  "date": "2023-08-05",
+  "title": {
+   "lt": "Kintų muzikos festivalis: „Nauji Baltijos skambesiai“",
+   "en": "Kintai Music Festival: “New Baltic Sounds”"
+  },
+  "credits": [],
+  "text": {
+   "lt": "Įspūdingo kvarteto debiutas ir Baltijos šalių kompozitorių premjeros. Skambės „Baltic Games“ premjera.",
+   "en": "The debut of an impressive quartet and premieres by Baltic composers, including the premiere of “Baltic Games”."
+  },
+  "url": "https://www.lrt.lt/naujienos/kultura/12/2048652/kintu-muzikos-festivalyje-ispudingo-kvarteto-debiutas-ir-baltijos-saliu-kompozitoriu-premjeros",
+  "img": "kintai",
+  "place": {
+   "lt": "Kintų Didžioji bažnyčia",
+   "en": "Kintai Great Church"
+  }
+ },
+ {
+  "id": "drive-for-life",
+  "date": "2023-06-09",
+  "title": {
+   "lt": "„Drive for Life“, Baku",
+   "en": "“Drive for Life”, Baku"
+  },
+  "credits": [],
+  "text": {
+   "lt": "Kartu su „Kremerata Baltica“, Džeraldu Bidva ir Giedre Dirvanauskaite.",
+   "en": "With Kremerata Baltica, Džeraldas Bidva and Giedrė Dirvanauskaitė."
+  },
+  "place": {
+   "lt": "Heydar Aliyev centras, Baku, 20 val.",
+   "en": "Heydar Aliyev Center, Baku, 8 pm"
+  },
+  "img": "drive",
+  "poster": true
+ },
+ {
+  "id": "camino-2023",
+  "date": "2023-04",
+  "title": {
+   "lt": "„Camino Real“",
+   "en": "“Camino Real”"
+  },
+  "credits": [],
+  "text": {
+   "lt": "Juozo Miltinio dramos teatras pristato „Camino Real“ – dviejų dalių poetinį absurdą.",
+   "en": "The Juozas Miltinis Drama Theatre presents “Camino Real”, a poetic absurd in two parts."
+  },
+  "url": "https://www.miltinioteatras.lt/spektaklis/spektakliai/visi/camino-real/",
+  "when": {
+   "lt": "2023 m.",
+   "en": "2023"
+  }
+ },
+ {
+  "id": "green-journey",
+  "date": "2022-12",
+  "title": {
+   "lt": "„Green Journey“",
+   "en": "“Green Journey”"
+  },
+  "credits": [],
+  "text": {
+   "lt": "„Green Journey“ dviem smuikams ir elektronikai, skirta Japonijos ir Lietuvos draugystės šimtmečiui paminėti, pradėjo savo kelionę Kanadzavoje, Japonijoje.",
+   "en": "“Green Journey” for two violins and electronics, written for the centenary of Japanese–Lithuanian friendship, began its journey in Kanazawa, Japan."
+  },
+  "img": "green",
+  "when": {
+   "lt": "2022 m.",
+   "en": "2022"
+  },
+  "poster": true
+ },
+ {
+  "id": "dona-kichote",
+  "date": "2022-10",
+  "title": {
+   "lt": "„Dona Kichotė“",
+   "en": "“Dona Quixote”"
+  },
+  "credits": [],
+  "text": {
+   "lt": "Šokio spektaklių triptikas pagal G. F. Händelio, Silvijos Miliūnaitės, H. Purcello, J. S. Bacho ir M. Berezovskio muziką.",
+   "en": "A triptych of dance productions to music by G. F. Handel, Silvija Miliūnaitė, H. Purcell, J. S. Bach and M. Berezovsky."
+  },
+  "url": "https://www.klaipedosmuzikinis.lt/repertuaras/dona-kichote-65d551b720af9/apie",
+  "when": {
+   "lt": "2022 m.",
+   "en": "2022"
+  }
+ },
+ {
+  "id": "gaida22",
+  "date": "2022-10-01",
+  "title": {
+   "lt": "Festivalis „Gaida 2022“: „Sėlinančio tigro“ koncertas",
+   "en": "Gaida 2022 festival: the “Stalking Tiger” concerto"
+  },
+  "credits": [
+   [
+    {
+     "lt": "Atlieka",
+     "en": "Performed by"
+    },
+    {
+     "lt": "Lietuvos kamerinis orkestras",
+     "en": "Lithuanian Chamber Orchestra"
+    },
+    null
+   ],
+   [
+    {
+     "lt": "Solistas",
+     "en": "Soloist"
+    },
+    "Gleb Pyšniak",
+    null
+   ],
+   [
+    {
+     "lt": "Dirigentas",
+     "en": "Conductor"
+    },
+    "Martynas Stakionis",
+    null
+   ]
+  ],
+  "text": {
+   "lt": "Tarptautiniame aktualios muzikos festivalyje „Gaida“ – koncerto violončelei ir styginių orkestrui pasaulinė premjera.",
+   "en": "World premiere of the concerto for cello and string orchestra at the international contemporary music festival Gaida."
+  },
+  "url": "https://www.lrt.lt/mediateka/irasas/2000272663/festivalis-gaida-2022-selinancio-tigro-koncertas?time_start=959",
+  "when": {
+   "lt": "2022 m.",
+   "en": "2022"
+  }
+ },
+ {
+  "id": "einu-namo",
+  "date": "2022-06",
+  "title": {
+   "lt": "Visagino baleto spektaklis „Einu namo“ – premjera",
+   "en": "Visaginas ballet “Einu namo” (I’m Going Home) – premiere"
+  },
+  "credits": [],
+  "url": "https://visaginokultura.lt/naujienos/premjera-visagino-baleto-spektaklis-einu-namo/",
+  "when": {
+   "lt": "2022 m.",
+   "en": "2022"
+  }
+ },
+ {
+  "id": "foto-paroda",
+  "date": "2022-03",
+  "title": {
+   "lt": "Muzikinė fotografijų paroda „Kelias migloje“",
+   "en": "Musical photography exhibition “Kelias migloje” (Foggy Road)"
+  },
+  "credits": [],
+  "text": {
+   "lt": "Kompozitorė Silvija Miliūnaitė ir fotomenininkas Virgilijus Usinavičius kviečia į muzikinę fotografijų parodą.",
+   "en": "Composer Silvija Miliūnaitė and photographer Virgilijus Usinavičius invite you to a musical photography exhibition."
+  },
+  "url": "https://muzikosantena.lt/2022/10/20/kompozitore-silvija-miliunaite-ir-fotomenininkas-virgilijus-usinavicius-kviecia-i-muzikine-fotografiju-paroda/",
+  "when": {
+   "lt": "2022 m.",
+   "en": "2022"
+  }
+ },
+ {
+  "id": "kremerata",
+  "date": "2021-04",
+  "title": {
+   "lt": "Orkestro „Kremerata Baltica“ koncertas",
+   "en": "Kremerata Baltica concert"
+  },
+  "credits": [
+   [
+    {
+     "lt": "Atlieka",
+     "en": "Performed by"
+    },
+    {
+     "lt": "Kamerinis orkestras „Kremerata Baltica“",
+     "en": "Kremerata Baltica chamber orchestra"
+    },
+    null
+   ],
+   [
+    {
+     "lt": "Solistai",
+     "en": "Soloists"
+    },
+    {
+     "lt": "Džeraldas Bidva (smuikas), Giedrė Dirvanauskaitė (violončelė), Viktorija Miškūnaitė (sopranas)",
+     "en": "Džeraldas Bidva (violin), Giedrė Dirvanauskaitė (cello), Viktorija Miškūnaitė (soprano)"
+    },
+    null
+   ]
+  ],
+  "text": {
+   "lt": "Koncertas, skirtas Černobylio katastrofos 35-osioms metinėms. Programoje – kompozitorės Silvijos Miliūnaitės kūriniai.",
+   "en": "A concert marking the 35th anniversary of the Chernobyl disaster. The programme features works by Silvija Miliūnaitė."
+  },
+  "url": "https://www.lrt.lt/mediateka/irasas/2000160850/orkestro-kremerata-baltica-koncertas-skirtas-cernobylio-katastrofos-35-osioms-metinems",
+  "when": {
+   "lt": "2021 m.",
+   "en": "2021"
+  }
+ }
+]

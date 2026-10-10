@@ -1,0 +1,405 @@
+[
+ {
+  "id": "operavision",
+  "kind": "link",
+  "cover": "panama",
+  "url": "https://operavision.eu/performance/how-beautiful-panama",
+  "label": {
+   "lt": "Žiūrėti „OperaVision“",
+   "en": "Watch on OperaVision"
+  },
+  "title": {
+   "lt": "„Panama labai graži“ | Šokio spektaklis vaikams",
+   "en": "“Panama labai graži” | Dance production for children"
+  },
+  "text": {
+   "lt": "Spektaklis nemokamai prieinamas visame pasaulyje „OperaVision“ platformoje.",
+   "en": "The production is available free of charge worldwide on the OperaVision platform."
+  },
+  "credits": [
+   [
+    {
+     "lt": "Teatras",
+     "en": "Theatre"
+    },
+    {
+     "lt": "Klaipėdos valstybinis muzikinis teatras",
+     "en": "Klaipėda State Music Theatre"
+    },
+    null
+   ],
+   [
+    {
+     "lt": "Choreografė",
+     "en": "Choreographer"
+    },
+    "Daria Verovka",
+    null
+   ],
+   [
+    {
+     "lt": "Kompozitorė",
+     "en": "Composer"
+    },
+    "Silvija Miliūnaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Dirigentas",
+     "en": "Conductor"
+    },
+    "Giedrius Vaznys",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "fire-games",
+  "kind": "youtube",
+  "vid": "d7YB6WjdAbA",
+  "url": "https://www.youtube.com/watch?v=d7YB6WjdAbA",
+  "title": {
+   "lt": "Dvigubas koncertas perkusijai ir styginių orkestrui | FIRE GAMES FOR TWO (pasaulinė premjera)",
+   "en": "Double concerto for percussion and string orchestra | FIRE GAMES FOR TWO (world premiere)"
+  },
+  "text": {
+   "lt": "Ištraukos iš Silvijos Miliūnaitės dvigubo koncerto perkusijai „Fire Games for Two“ (2025 m., pasaulinė premjera).",
+   "en": "Excerpts from Silvija Miliūnaitė’s double percussion concerto “Fire Games for Two” (2025, world premiere)."
+  },
+  "credits": [
+   [
+    {
+     "lt": "Atlieka",
+     "en": "Performed by"
+    },
+    {
+     "lt": "Lietuvos kamerinis orkestras (meno vadovas ir dirigentas Sergej Krylov)",
+     "en": "Lithuanian Chamber Orchestra (artistic director and conductor Sergej Krylov)"
+    },
+    null
+   ],
+   [
+    {
+     "lt": "Solistai (perkusija)",
+     "en": "Soloists (percussion)"
+    },
+    "Pavel Giunter (LT), Guntars Freibergs (LV)",
+    null
+   ],
+   [
+    {
+     "lt": "Dirigentas",
+     "en": "Conductor"
+    },
+    "Elias Brown (USA)",
+    null
+   ],
+   [
+    {
+     "lt": "Vaizdo operatorius",
+     "en": "Camera"
+    },
+    "Jonas Šopa",
+    null
+   ]
+  ],
+  "place": {
+   "lt": "Tarptautinis aktualios muzikos festivalis „GAIDA 2025“, 2025 m. spalio 22 d., Lietuvos nacionalinė filharmonija, Vilnius",
+   "en": "International contemporary music festival GAIDA 2025, 22 October 2025, Lithuanian National Philharmonic Hall, Vilnius"
+  },
+  "cover": "gaida"
+ },
+ {
+  "id": "anapus-sienu",
+  "kind": "vimeo",
+  "vid": "654554003",
+  "h": "b6ebbff93a",
+  "url": "https://vimeo.com/654554003/b6ebbff93a",
+  "title": {
+   "lt": "ANAPUS SIENŲ | Šokio-judesio filmas",
+   "en": "BEYOND THE WALLS (ANAPUS SIENŲ) | Dance-movement film"
+  },
+  "text": {
+   "lt": "Kūnas talpina žmogaus gyvenimo istoriją: odoje išraižyti patirčių žemėlapiai, judesiuose – pasaulėjautos ženklai.",
+   "en": "The body holds the story of a human life: maps of experience etched in the skin, signs of a worldview in movement."
+  },
+  "credits": [
+   [
+    {
+     "lt": "Idėjos autorė ir choreografė",
+     "en": "Concept and choreography"
+    },
+    "Dovilė Binkauskaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Kompozitorė",
+     "en": "Composer"
+    },
+    "Silvija Miliūnaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Operatorius ir montažo režisierius",
+     "en": "Cinematography and editing"
+    },
+    "Marius Lukošius",
+    null
+   ],
+   [
+    {
+     "lt": "Muzikos atlikėjai",
+     "en": "Musicians"
+    },
+    {
+     "lt": "Mindaugas Bačkus (violončelė), Eglė Jutkonytė-Karbauskė (fortepijonas)",
+     "en": "Mindaugas Bačkus (cello), Eglė Jutkonytė-Karbauskė (piano)"
+    },
+    null
+   ],
+   [
+    {
+     "lt": "„Šeiko Dance Company“ meno vadovė",
+     "en": "Artistic director, Šeiko Dance Company"
+    },
+    "Agnija Šeiko",
+    null
+   ]
+  ]
+ },
+ {
+  "id": "kremerata",
+  "kind": "link",
+  "ph": {
+   "lt": "LRT mediateka",
+   "en": "LRT Mediateka"
+  },
+  "url": "https://www.lrt.lt/mediateka/video/orkestro-kremerata-baltica-koncertas-skirtas-cernobilio-katastrofos-35-osioms-metinems",
+  "label": {
+   "lt": "Žiūrėti LRT mediatekoje",
+   "en": "Watch on LRT Mediateka"
+  },
+  "title": {
+   "lt": "ORKESTRO „KREMERATA BALTICA“ KONCERTAS",
+   "en": "KREMERATA BALTICA CONCERT"
+  },
+  "text": {
+   "lt": "Koncertas, skirtas Černobylio katastrofos 35-osioms metinėms. Programoje – kompozitorės Silvijos Miliūnaitės kūriniai.",
+   "en": "A concert marking the 35th anniversary of the Chernobyl disaster. The programme features works by Silvija Miliūnaitė."
+  },
+  "credits": [
+   [
+    {
+     "lt": "Atlieka",
+     "en": "Performed by"
+    },
+    {
+     "lt": "Kamerinis orkestras „Kremerata Baltica“",
+     "en": "Kremerata Baltica chamber orchestra"
+    },
+    null
+   ],
+   [
+    {
+     "lt": "Solistai",
+     "en": "Soloists"
+    },
+    {
+     "lt": "Džeraldas Bidva (smuikas), Giedrė Dirvanauskaitė (violončelė), Viktorija Miškūnaitė (sopranas)",
+     "en": "Džeraldas Bidva (violin), Giedrė Dirvanauskaitė (cello), Viktorija Miškūnaitė (soprano)"
+    },
+    null
+   ]
+  ],
+  "cover": "kremerata"
+ },
+ {
+  "id": "garso-ekspedicija",
+  "kind": "link",
+  "ph": {
+   "lt": "LRT radioteka",
+   "en": "LRT Radioteka"
+  },
+  "url": "https://www.lrt.lt/radioteka/irasas/2000152594/garso-ekspedicija-cernobylio-tragedijos-atgarsis-silvijos-miliunaites-bliudziuviene",
+  "label": {
+   "lt": "Klausyti LRT radijotekoje",
+   "en": "Listen on LRT Radioteka"
+  },
+  "title": {
+   "lt": "„GARSO EKSPEDICIJA“ | LRT radijo laida",
+   "en": "“GARSO EKSPEDICIJA” | LRT radio programme"
+  },
+  "text": {
+   "lt": "Laida skirta kompozitorės Silvijos Miliūnaitės-Bliūdžiuvienės kartu su kameriniu orkestru „Kremerata Baltica“ paruoštai programai „Iš tamsos į šviesą“. Programa dedikuota Černobylio katastrofos 35-osioms metinėms.",
+   "en": "A radio programme about the programme “Iš tamsos į šviesą” (From Darkness to Light) prepared by composer Silvija Miliūnaitė with the Kremerata Baltica chamber orchestra, dedicated to the 35th anniversary of the Chernobyl disaster."
+  },
+  "credits": [
+   [
+    {
+     "lt": "Atlieka",
+     "en": "Performed by"
+    },
+    {
+     "lt": "Kamerinis orkestras „Kremerata Baltica“",
+     "en": "Kremerata Baltica chamber orchestra"
+    },
+    null
+   ],
+   [
+    {
+     "lt": "Solistai",
+     "en": "Soloists"
+    },
+    {
+     "lt": "Džeraldas Bidva (smuikas), Giedrė Dirvanauskaitė (violončelė), Viktorija Miškūnaitė (sopranas)",
+     "en": "Džeraldas Bidva (violin), Giedrė Dirvanauskaitė (cello), Viktorija Miškūnaitė (soprano)"
+    },
+    null
+   ]
+  ],
+  "cover": "garso"
+ },
+ {
+  "id": "gaida22",
+  "kind": "link",
+  "ph": {
+   "lt": "LRT mediateka",
+   "en": "LRT Mediateka"
+  },
+  "url": "https://www.lrt.lt/mediateka/irasas/2000272663/festivalis-gaida-2022-selinancio-tigro-koncertas?time_start=962",
+  "label": {
+   "lt": "Žiūrėti LRT mediatekoje",
+   "en": "Watch on LRT Mediateka"
+  },
+  "title": {
+   "lt": "SĖLINANČIO TIGRO KONCERTAS | Festivalis „Gaida 2022“",
+   "en": "THE STALKING TIGER CONCERTO | Gaida 2022 festival"
+  },
+  "text": {
+   "lt": "Koncertas violončelei ir styginių orkestrui (pasaulinė premjera), pristatytas tarptautiniame aktualios muzikos festivalyje „Gaida 2022“.",
+   "en": "Concerto for cello and string orchestra (world premiere), presented at the international contemporary music festival Gaida 2022."
+  },
+  "credits": [
+   [
+    {
+     "lt": "Atlieka",
+     "en": "Performed by"
+    },
+    {
+     "lt": "Lietuvos kamerinis orkestras",
+     "en": "Lithuanian Chamber Orchestra"
+    },
+    null
+   ],
+   [
+    {
+     "lt": "Solistas",
+     "en": "Soloist"
+    },
+    {
+     "lt": "Gleb Pyšniak (violončelė)",
+     "en": "Gleb Pyšniak (cello)"
+    },
+    null
+   ],
+   [
+    {
+     "lt": "Dirigentas",
+     "en": "Conductor"
+    },
+    "Martynas Stakionis",
+    null
+   ]
+  ],
+  "cover": "gaida22"
+ },
+ {
+  "id": "baltic-games",
+  "kind": "youtube",
+  "vid": "CApXNz5Iy34",
+  "url": "https://www.youtube.com/watch?v=CApXNz5Iy34",
+  "title": {
+   "lt": "„BALTIC GAMES“ | New Baltic Sound Quartet",
+   "en": "“BALTIC GAMES” | New Baltic Sound Quartet"
+  },
+  "text": {
+   "lt": "Pirmoji naujo lietuvių kompozitorės Silvijos Miliūnaitės kūrinio „Baltic Games“ repeticija.",
+   "en": "The first rehearsal of “Baltic Games”, a new work by Lithuanian composer Silvija Miliūnaitė."
+  },
+  "credits": [
+   [
+    {
+     "lt": "Smuikas",
+     "en": "Violin"
+    },
+    "Dalia Dėdinskaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Violončelė",
+     "en": "Cello"
+    },
+    "Gleb Pyšniak",
+    null
+   ],
+   [
+    {
+     "lt": "Marimba / perkusija",
+     "en": "Marimba / percussion"
+    },
+    "Guntars Freibergs",
+    null
+   ],
+   [
+    {
+     "lt": "Vibrafonas / perkusija",
+     "en": "Vibraphone / percussion"
+    },
+    "Pavel Giunter",
+    null
+   ]
+  ],
+  "cover": "baltic"
+ },
+ {
+  "id": "siubuojanti-zeme",
+  "kind": "youtube",
+  "vid": "3yRNGug_FFU",
+  "t": 18,
+  "url": "https://www.youtube.com/watch?v=3yRNGug_FFU&t=18s",
+  "title": {
+   "lt": "Performansas „SIŪBUOJANTI ŽEMĖ“ | Valstybinis ansamblis „Lietuva“",
+   "en": "Performance “SIŪBUOJANTI ŽEMĖ” (The Swaying Earth) | State Ensemble “Lietuva”"
+  },
+  "text": {
+   "lt": "Valstybinis ansamblis „Lietuva“ jaunuosius menininkus pakvietė savaip pasižiūrėti ir interpretuoti ansamblio repertuarą. Performansas kvietė išgyventi tikrą kūrybinį eksperimentą – muzikinių stilių, laikmečių ir tiems laikmečiams būdingų išgyvenimų bei vidinių prieštaravimų sintezę.",
+   "en": "The State Ensemble “Lietuva” invited young artists to look at and interpret the ensemble’s repertoire in their own way. The performance offered a true creative experiment: a synthesis of musical styles, eras, and the experiences and inner contradictions typical of those eras."
+  },
+  "credits": [
+   [
+    {
+     "lt": "Kompozitorė",
+     "en": "Composer"
+    },
+    "Silvija Miliūnaitė",
+    null
+   ],
+   [
+    {
+     "lt": "Atlieka",
+     "en": "Performed by"
+    },
+    {
+     "lt": "Ansamblis „Lietuva“",
+     "en": "Ensemble “Lietuva”"
+    },
+    null
+   ]
+  ],
+  "cover": "siubuojanti"
+ }
+]
