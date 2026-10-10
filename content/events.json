@@ -111,19 +111,6 @@
       },
       "url": "https://ansamblis-lietuva.lt/renginys/muzikinis-spektaklis-vaikams-peleda-drulija-1-vilnius-09-12/",
       "tickets": false
-    },
-    {
-      "date": "2027-01-01",
-      "time": "00:00",
-      "title": {
-        "lt": "„Bandymas”",
-        "en": "„Bandymas”"
-      },
-      "place": {
-        "lt": "Turgus",
-        "en": "Turgus"
-      },
-      "tickets": false
     }
   ]
 }
