@@ -52,7 +52,7 @@ def layout(L, pid, title, body, over=False):
 <link rel="canonical" href="{url(L)}"><link rel="alternate" hreflang="lt" href="{url('lt')}"><link rel="alternate" hreflang="en" href="{url('en')}">
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{desc}"><meta property="og:type" content="website">
 <meta property="og:image" content="{S['domain']}/assets/og.jpg">
-{ld}<link rel="icon" href="{P}assets/favicon.png"><link rel="stylesheet" href="{P}assets/css/style.css"><script src="{P}assets/js/site.js" defer></script></head><body>
+{ld}<link rel="icon" href="{P}assets/favicon.png"><link rel="stylesheet" href="{P}assets/css/style.css"><script src="{P}assets/js/site.js" defer></script><script data-goatcounter="https://silvijamil.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script></head><body>
 <header class="top{' on-photo' if over else ''}"><a class="logo" href="{href(L,'home',depth)}" aria-label="{e(S['name'])}"><img src="{P}assets/logo.png" alt="SM"></a>
 <nav id="nav">{nav}</nav><a class="lang" href="{href(OTHER[L],pid,depth).replace(f'{OTHER[L]}/',OTHER[L]+'/',1)}" hreflang="{OTHER[L]}">{tr(S['ui']['lang'],L)}</a>
 <button class="menu" aria-label="{tr(S['ui']['menu'],L)}" onclick="this.closest('header').querySelector('nav').classList.toggle('open')"><span></span><span></span></button></header>
